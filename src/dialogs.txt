@@ -2106,8 +2106,8 @@ you know i don't like crowds.	let's go to an early movie.
 let's go to an early movie.	okay, that won't be very crowded.
 okay, that won't be very crowded.	what would you like to see?
 what would you like to see?	oh, i don't care. you're the one who wants to go out.
-oh, i don't care. you're the one who wants to go out.	well, i want to see "the pursuit of happyness."
-well, i want to see "the pursuit of happyness."	what have you heard about it?
+oh, i don't care. you're the one who wants to go out.	well, i want to see "the pursuit of happiness."
+well, i want to see "the pursuit of happiness."	what have you heard about it?
 what have you heard about it?	it's based on a true story about a divorced man and his young son.
 it's based on a true story about a divorced man and his young son.	well, i hope it has a happy ending.
 what's your favorite thing to do?	i like to watch people.
@@ -3502,7 +3502,7 @@ i like the one where the fireman tells us why we should vote yes.	don't believe 
 don't believe him! whatever the tv ads tell you, the opposite is true.	but the title of measure 1 is "better schools at no cost."
 but the title of measure 1 is "better schools at no cost."	the title should be "better schools at huge cost."
 the title should be "better schools at huge cost."	i can't believe that they would lie to us.
-i can't believe that they would lie to us.	of course they lieÂ—that's what politicians do!
+i can't believe that they would lie to us.	of course they lie, that's what politicians do!
 i have a stomachache.	is it something you ate?
 is it something you ate?	maybe. i'm not sure.
 maybe. i'm not sure.	what did you have for breakfast?
